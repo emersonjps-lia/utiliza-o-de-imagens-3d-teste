@@ -1,0 +1,13 @@
+{
+    "footer" : {
+        "title": "Título do projeto", 
+        "version": 1.0,
+        "year": 2023,
+        "collaborators": {
+            "Desenvolvedores": "John Doe",
+            "Consultoria": "John Doe && John Doe",
+            "designer": "John Doe",
+            "Direção": "John Doe"
+        }
+    }
+}

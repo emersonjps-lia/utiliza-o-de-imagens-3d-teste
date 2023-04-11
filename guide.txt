@@ -1,0 +1,8 @@
+Ao utilizar pela primeira vez: 
+    npm run dep
+
+Durante o desenvolvimento: 
+    npm start
+
+Para rodar a prática: 
+    live server e acessar página public
